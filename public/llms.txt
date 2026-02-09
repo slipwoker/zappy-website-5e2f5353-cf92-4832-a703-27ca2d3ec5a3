@@ -1,0 +1,86 @@
+# נייר וקרטון הדרום — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני business.
+
+---
+
+## Pages
+
+### Home
+https://-5e2f5353.zappy5.app
+
+### Catalog
+https://-5e2f5353.zappy5.app/catalog
+
+### Product Detail
+https://-5e2f5353.zappy5.app/product
+
+### Contact
+https://-5e2f5353.zappy5.app/contact
+
+### Products
+https://-5e2f5353.zappy5.app/products
+המוצרים שלנו - נייר וקרטון הדרום
+
+### Cart
+https://-5e2f5353.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-5e2f5353.zappy5.app/checkout
+תשלום
+
+### Login
+https://-5e2f5353.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-5e2f5353.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-5e2f5353.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-5e2f5353.zappy5.app/product/:slug
+פרטי המוצר - נייר וקרטון הדרום
+
+### Category
+https://-5e2f5353.zappy5.app/category/:slug
+מוצרים - נייר וקרטון הדרום
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5e2f5353.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5e2f5353.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5e2f5353.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נייר וקרטון הדרום
+נייר וקרטון הדרום is a business in the מסחר אלקטרוני industry.
+
+## Target Audience
+- בעלי עסקים קטנים
+- צרכנים ירוקים
+
+## Industry
+מסחר אלקטרוני
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-5e2f5353.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-5e2f5353.zappy5.app/robots.txt
